@@ -1,0 +1,51 @@
+body{margin:0;
+text-align: center;
+font-family:'merriweather',serif;
+
+}
+p{text-align: center;}
+h1{width: 10%;
+margin:0 auto 0 auto;
+font-size: 90px}
+.top-container{background-color: #93b5e1 ;
+               height: 260px ;
+               width: 1500px ;
+               position: absolute;
+               top:0;
+              }
+.middle-container{background-color: #848ccf;
+                  width: 1500px ;
+                  height: 335px;
+            position: absolute;
+        top: 260px;
+                }
+.bottom-container{background-color:  #006a71  ;
+                  width: 1500px ;
+                  height: 320px;
+                  position:absolute ;
+                  top: 595px;
+              }
+.contact-me{ background-color: #8fbc8f;
+              width: 1500px ;
+              height: 250px;
+               position:absolute ;
+              top: 890px;}
+.pro{text-decoration: underline;}
+.top-cloud{position: absolute;
+           right: 450px;
+           top: 30px}
+.bottom-cloud{position: absolute;
+              left: 350px;
+              top: 200px}
+.mid-cloud{position: absolute;
+            right: 250px;
+            top: 100px}
+.about-cloud{position: absolute;
+                         right: 250px;
+                        top: 250px}
+.mountain{ position: absolute;
+           bottom: 10px;
+         left: 820px}
+.skill-cloud{position: absolute;
+              left: 250px;
+              bottom: 250px}
